@@ -6,7 +6,8 @@
     <Authors>Serhat Boyraz</Authors>
     <Company>Detaysoft</Company>
     <PackageProjectUrl></PackageProjectUrl>
-    <RepositoryUrl>https://github.com/serhatboyraz/dotnet-microservices</RepositoryUrl>
+    <RepositoryUrl>https://github.com/serhatboyraz/dmicroservices-utils</RepositoryUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
